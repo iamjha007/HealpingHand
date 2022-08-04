@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Intents/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.124" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Intents/app/src/main/res/drawable/ic_baseline_ondemand_video_24.xml" value="0.2155" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Intents/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.124" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Intents/app/src/main/res/drawable/mail_icon.xml" value="0.124" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Intents/app/src/main/res/drawable/phone_icon.xml" value="0.124" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/Intents/app/src/main/res/layout/activity_main.xml" value="0.136" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/Intents/app/src/main/res/layout/activity_main2.xml" value="0.22826086956521738" />
       </map>
